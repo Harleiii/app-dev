@@ -5,6 +5,6 @@ My first repository
 {
   "Protagonist": "Harry",
   "Antagonist": "Voldemort",
-  "Favorite Spell": Avada Kedavra
+  "Favorite Spell": "Avada Kedavra"
 }
 ```
